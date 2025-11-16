@@ -19,8 +19,6 @@ To write a C Program to convert a given decimal value to binary using function w
 ```
 /*
 Program to C Program to convert a given decimal value to binary using function without arguments with return type.
-Developed by: Santhosh kumar B
-RegisterNumber:  212223060249
 */
 #include <stdio.h>
 
